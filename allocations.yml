@@ -56,6 +56,8 @@ allocations:
     ranges:
       - start: 2700000
         size: 100000
+      - start: 100000000
+        size: 100000000
 
   emergingthreats/pro:
     org: Emerging Threats
@@ -104,14 +106,6 @@ allocations:
     ranges:
       - start: 5000000
         size: 214
-
-  malsilo:
-    org: MalSilo
-    name: MalSilo
-    note: "[MalSilo](https://malsilo.gitlab.io/feeds/)"
-    ranges:
-      - start: 5000000
-        size: 34
 
   julioliraup:
     org: Julioliraup

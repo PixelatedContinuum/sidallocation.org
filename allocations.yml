@@ -41,14 +41,6 @@ allocations:
       - start: 2610000
         size: 10000
 
-  3coresec/lateral-movement:
-    org: 3CORESec
-    name: Lateral Movement Ruleset
-    note: "[Lateral Movement Ruleset](https://dtection.io/ruleset)"
-    ranges:
-      - start: 2620000
-        size: 10000
-
   emergingthreats:
     org: Emerging Threats
     name: Emerging Threats
@@ -114,14 +106,6 @@ allocations:
     ranges:
       - start: 6000000
         size: 100000
-
-  3coresec/sinkholes:
-    org: 3CORESec
-    name: 3CORESec Sinkholes
-    note: "[Sinkholes Ruleset](https://dtection.io/ruleset)"
-    ranges:
-      - start: 7724000
-        size: 2001
 
   positivetechnologies:
     org: Positive Technologies

@@ -150,3 +150,15 @@ allocations:
     ranges:
       - start: 3400000
         size: 100000
+
+  ipfire/dbl:
+    org: IPFire
+    name: IPFire DBL
+    url: https://www.ipfire.org/dbl/
+    note: "[IPFire Domain Block List](https://www.ipfire.org/dbl/)"
+    engine:
+      - snort
+      - suricata
+    ranges:
+      - start: 12000000
+        size: 1000000

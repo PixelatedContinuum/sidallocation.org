@@ -151,6 +151,16 @@ allocations:
       - start: 3400000
         size: 100000
 
+  wybot:
+    org: Wybot SAS
+    name: Wybot SAS
+    note: "[Wybot Cybersecurity](https://www.wybot-cybersecurite.com/)"
+    engine:
+      - suricata
+    ranges:
+      - start: 9555000
+        size: 400000
+
   ipfire/dbl:
     org: IPFire
     name: IPFire DBL

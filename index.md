@@ -20,7 +20,9 @@
 | 4000000-4099999     | ExtraHop              | [ExtraHop IDS](https://www.extrahop.com/solutions/security/ids/)                                     |
 | 5000000-5000213     | Etnetera a.s.         | [Etnetera aggressive IP blacklist](https://security.etnetera.cz/feeds/etn_aggressive.rules)          |
 | 6000000-6099999     | Julioliraup           | [Antiphishing](https://github.com/julioliraup/Antiphishing)                                          |
+| 9555000-9954999     | Wybot SAS             | [Wybot Cybersecurity](https://www.wybot-cybersecurite.com/)                                          |
 | 10000000-11999999   | Positive Technologies | [PT Security Attack Detection Team ruleset](https://github.com/ptresearch/AttackDetection#sid-range) |
+| 12000000-12999999   | IPFire                | [IPFire Domain Block List](https://www.ipfire.org/dbl/)                                              |
 | 27990000-27999999   | jpgview               | [DOH Rules](https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOH.rules)            |
 | 100000000-199999999 | Emerging Threats      | [Emerging Threats](https://doc.emergingthreats.net/bin/view/Main/SidAllocation)                      |
 | 902200000-906200096 | Abuse.ch              | Abuse.ch                                                                                             |

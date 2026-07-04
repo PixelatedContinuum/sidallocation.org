@@ -151,6 +151,17 @@ allocations:
       - start: 3400000
         size: 100000
 
+  the-hunters-ledger:
+    org: The Hunters Ledger
+    name: The Hunters Ledger Detection Feed
+    url: https://the-hunters-ledger.com/
+    note: "[The Hunters Ledger](https://the-hunters-ledger.com/) - Community threat-intelligence Suricata feed (CC BY-NC 4.0)"
+    engine:
+      - suricata
+    ranges:
+      - start: 3500000
+        size: 10000
+
   wybot:
     org: Wybot SAS
     name: Wybot SAS
